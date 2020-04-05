@@ -13,6 +13,7 @@
 		<relativePath />
 		<!-- lookup parent from repository -->
 		<!-- changes in master -->
+		<!-- changes in master new -->
 	</parent>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
