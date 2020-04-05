@@ -12,6 +12,7 @@
 		<version>2.0.0.BUILD-SNAPSHOT</version>
 		<relativePath />
 		<!-- lookup parent from repository -->
+		<!-- changes in feature version -->
 	</parent>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
